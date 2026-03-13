@@ -4,7 +4,7 @@ I am an **Assistant Professor** in **Process Systems Engineering** in the Depart
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research interests
 
 - Model Predictive Control (MPC) and Economic MPC  
 - Data-driven and hybrid modelling (Physics + Machine Learning)  
