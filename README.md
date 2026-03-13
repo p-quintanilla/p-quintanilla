@@ -1,4 +1,4 @@
-# Hi, I'm Paulina Quintanilla
+## Hi, I'm Paulina Quintanilla
 
 I am an **Assistant Professor** in **Process Systems Engineering** in the Department of Chemical Engineering at University College London (UCL), working on the modelling, control, and optimisation of dynamic systems.
 
