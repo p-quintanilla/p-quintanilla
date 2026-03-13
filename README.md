@@ -22,6 +22,10 @@ I am an **Assistant Professor** in **Process Systems Engineering** in the Depart
 
 ---
 
+💃 When I'm not working on modelling and control problems, you’ll likely find me dancing to Latin American music, reading, painting, or optimising my coffee intake.
+
+---
+
 ## 📫 Contact
 - Email: p.quintanilla@ucl.ac.uk
 - Academic Profile: https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about
