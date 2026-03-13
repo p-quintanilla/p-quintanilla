@@ -16,12 +16,9 @@ I am an **Assistant Professor** in **Process Systems Engineering** in the Depart
 ---
 
 ## 🎓 Education
-- PhD in Earth Science and Engineering
-Imperial College London
-- MSc in Chemical Engineering
-Universidad Técnica Federico Santa María
-- MEng in Chemical Engineering
-Universidad Técnica Federico Santa María
+- PhD in Earth Science and Engineering at Imperial College London
+- MSc in Chemical Engineering at Universidad Técnica Federico Santa María
+- MEng in Chemical Engineering at Universidad Técnica Federico Santa María
 
 ---
 
